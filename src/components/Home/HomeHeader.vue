@@ -1,6 +1,6 @@
 <template>
-  <div>
-    dfs
+  <div class="header">
+    dfsf
   </div>
 </template>
 
