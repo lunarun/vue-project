@@ -1,6 +1,6 @@
 # vue-project
 
-> A Vue.js project
+> A Vue.js project with practise by lunarun
 
 ## Build Setup
 
